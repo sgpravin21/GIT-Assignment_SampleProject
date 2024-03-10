@@ -1,0 +1,6 @@
+this
+is 
+a 
+3.txt
+file
+which is created in branch b2
